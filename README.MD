@@ -1,5 +1,5 @@
 # Financial Performance & Forecasting Analytics
-# Financial Performance & Forecasting Analytics
+
 
 ## 📌 Business Context
 Organizations rely on timely and accurate financial insights to evaluate performance, manage profitability, and plan future growth.  
